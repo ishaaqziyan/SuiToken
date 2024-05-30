@@ -13,4 +13,4 @@ sui client switch --env devnet
 `sui client publish --gas-budget 100000000 [YOUR_PATH]`
 replace **[YOUR_PATH]** with the relevant path.
 8. Now, once the deployment has been completed, you can find you contract in a sui blockchain explorer [devnet mode].
-9. In this particular case, you can view the contract I have deployed [here]([url](https://suiscan.xyz/devnet/coin/0x5abb63bb151db95627b729c025636bcf21cdb7b8110074762e61632125474e5d::my_coin::MY_COIN/txs)).
+9. In this particular case, you can view the contract I have deployed [here](https://suiscan.xyz/devnet/coin/0x5abb63bb151db95627b729c025636bcf21cdb7b8110074762e61632125474e5d::my_coin::MY_COIN/txs)
